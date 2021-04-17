@@ -109,7 +109,6 @@ var five_dayWeather= function(city){
     fetch(apiUrl)
     .then(function(response){
         response.json().then(function(data){
-            console.log(data);
             display5day(data);
         });
     });
@@ -155,7 +154,7 @@ var search_History = function(search_History){
 
     search_HistoryEl = document.createElement("button");
     search_HistoryEl.textContent = search_History;
-    search_HistoryEl.classList = "d-flex w-100 btn-light border p-2";
+    search_HistoryEl.classList = "d-flex w-100 btn-light border p-3";
     search_HistoryEl.setAttribute("data-city",search_History);
     search_HistoryEl.setAttribute("type", "submit");
 
