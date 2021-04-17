@@ -24,8 +24,10 @@
 ![weatherDashboard_searchHistory](./assets/images/weatherDashboard_searchHistory.png)
 
 #### Deployed application on github:
+https://poly-singh.github.io/weatherDashboard/
 
 ### Repository url:
+https://github.com/poly-singh/weatherDashboard 
 
 
 
