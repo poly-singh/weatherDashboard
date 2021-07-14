@@ -1,4 +1,6 @@
 # WeatherDashboard
+A web-based application which shows the current and next 5-day weather for any searched city using [OpenWeather API](https://openweathermap.org/api).
+
 ## Acceptance Criteria
 
 > - GIVEN a weather dashboard with form inputs
